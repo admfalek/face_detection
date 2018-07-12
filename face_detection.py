@@ -29,5 +29,3 @@ while True:
 	# exit the camera
 	if cv2.waitKey(1) & 0xFF == ord('q'):
 		sys.exit()
-
-#print('test')
